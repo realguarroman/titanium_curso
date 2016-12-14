@@ -1,0 +1,47 @@
+"Window":{
+    title: "Tema 1: Ejercicio 2"
+},
+//Clase nombre con tamaño y color
+".nombre":{
+	top: "50dp",
+    width: 200,
+    height: Ti.UI.SIZE,
+    color: "gray"
+}
+
+
+".apellidos":{
+	top: "100dp",
+    width: 200,
+    height: Ti.UI.SIZE,
+    color: "gray",
+    borderStyle: Ti.UI.INPUT_BORDERSTYLE_ROUNDED
+}
+
+".email":{
+	top: "150dp",
+    width: 200,
+    height: Ti.UI.SIZE,
+    color: "gray"
+}
+
+".telefono":{
+	top: "200dp",
+    width: 200,
+    height: Ti.UI.SIZE,
+    color: "gray"
+}
+
+".mensaje":{
+	top: "250dp",
+    width: 200,
+    height: 300,
+    color: "gray"
+}
+
+".boton":{
+	top: "450dp",
+    width: 75,
+    height: 50,
+    color: "gray"
+}

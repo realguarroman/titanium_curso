@@ -1,0 +1,22 @@
+<Alloy>
+    <Window id="win">
+        <!-- Vista posicionada al centro y con fondo rojo -->
+        <View id="view1" class="center red-bg" />
+        
+        
+         <!-- Vista con posición absoluta-->
+        <View id="view2" class="absoluta blue-bg" />
+        
+        
+        
+         <!-- Vista que usa density pixels-->
+        <View id="view3" class="dp yellow-bg" />
+        
+         <!-- etiqueta-->
+        <Label id="label1" class="etiquetas blue-bg">Esto es un texto</Label>
+        
+         <!-- etiqueta2-->
+        <Label id="label1" class="etiquetas2 yellow-bg">Esto es un texto</Label>
+        
+    </Window>
+</Alloy>

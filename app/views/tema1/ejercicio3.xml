@@ -1,0 +1,26 @@
+<Alloy>
+	<Window id="win">
+		<!-- Etiqueta Nombre asociada al campo -->
+		<Label class="nombre" />
+		<!-- Campo de texto nombre -->
+		<TextField id="nombre" />
+		<!-- Etiqueta Nombre asociada al campo -->
+		<Label class="apellidos" />
+		<!-- Campo de texto nombre -->
+		<TextField id="apellidos" />
+		<!-- Etiqueta Nombre asociada al campo -->
+		<Label class="email" />
+		<!-- Campo de texto nombre -->
+		<TextField id="email" />
+		<!-- Etiqueta Nombre asociada al campo -->
+		<Label class="telefono" />
+		<!-- Campo de texto nombre -->
+		<TextField id="telefono" />
+		<!-- Etiqueta Nombre asociada al campo -->
+		<Label class="mensaje" />
+		<!-- Campo de texto nombre -->
+		<TextField id="mensaje" />
+		
+		<Button class="boton" id="enviar" title="Enviar"></Button>
+	</Window>
+</Alloy>

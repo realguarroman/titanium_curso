@@ -1,0 +1,12 @@
+<Alloy>
+	<Window id="win">
+		<!-- Campo de texto para el nombre -->
+		<TextField class="nombre" hintText="Escribe tu nombre" hintTextColor="grey" />
+		<TextField class="apellidos" hintText="Escribe tus apellidos" hintTextColor="grey" />
+		<TextField class="email" hintText="Escribe tu email" hintTextColor="grey" />
+		<TextField class="telefono" hintText="Escribe tu teléfono" hintTextColor="grey" />
+		<TextArea class="mensaje" hintText="Escribe tu mensaje" hintTextColor="grey" />
+		<Button class="boton" id="enviar" title="Enviar"></Button>
+		
+	</Window>
+</Alloy>

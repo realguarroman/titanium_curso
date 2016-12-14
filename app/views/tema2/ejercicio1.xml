@@ -1,0 +1,27 @@
+<Alloy>
+	<Window id="win">
+		<View class="container center">
+			<ScrollView scrollType='vertical' layout='vertical'>
+				<!-- Campo de texto para el nombre -->
+				<Label class="nombreLabel" />
+				<TextField id="nombre" class="nombre" />
+				<!-- Campo de texto para el apellidos -->
+				<Label class="apellidosLabel" />
+				<TextField id="apellidos" class="apellidos" />
+				<!-- Campo de texto para el email -->
+				<Label class="emailLabel" />
+				<TextField id="email" class="email" />
+				<!-- Campo de texto para el telefono -->
+				<Label class="telefonoLabel" />
+				<TextField id="telefono" class="telefono" />
+				<!-- Area de texto para la descripcion -->
+				<Label class="mensajeLabel" />
+				<TextArea id="mensaje" class="mensaje" />				
+				<!-- Boton de envío -->
+				<Button id="enviar" class="margin-right enviar" />		
+				<!-- Boton de reset -->
+				<Button id="reset" class="margin-right reset" />		
+			</ScrollView>	
+		</View>
+	</Window>
+</Alloy>

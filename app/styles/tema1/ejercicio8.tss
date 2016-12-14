@@ -1,0 +1,39 @@
+"Window":{
+	title: "Tema 1: Ejercicio 8"
+},
+".gris":{
+	backgroundColor: "#E6E6E6"
+},
+".azul":{
+	backgroundColor: "blue"
+},
+".verde":{
+	backgroundColor: "green"
+},
+".pagina":{
+	width: "90%",
+	height: "90%"
+}
+".contenido":{
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	layout: "vertical"
+}
+"#imagen1":{
+	image: "/images/fry.jpg"
+}
+"#imagen2":{
+	image: "/images/bender.jpg"
+}
+"#imagen3":{
+	image: "/images/zoidberg.jpg"
+}
+"#pie1":{
+	text: "Fry"
+}
+"#pie2":{
+	text: "Bender"
+}
+"#pie3":{
+	text: "Zoidberg"
+}
